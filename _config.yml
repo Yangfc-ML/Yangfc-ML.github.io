@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Personal Homepage"
+title                    : "Fuchao Yang"
 title_separator          : "-"
 name                     : &name "Fuchao Yang"
 description              : &description "personal description"
