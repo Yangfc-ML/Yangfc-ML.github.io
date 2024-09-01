@@ -11,7 +11,7 @@ I'm a third year graduate student of [School of Software Engineering](https://co
 
 My primary research interests focus on weakly supervised learning, particularly partial label learning and partial multi-label learning.
 
-E-mail: [yangfc@seu.edu.cn](yangfc@seu.edu.cn)
+E-mail: <yangfc@seu.edu.cn>
 
 # 📝 Publication
 
