@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Biography"
+title: "🎈 Biography"
 author_profile: true
 redirect_from: 
   - /about/
@@ -11,8 +11,7 @@ I'm a third year graduate student of [School of Software Engineering](https://co
 
 My primary research interests focus on weakly supervised learning, particularly partial label learning and partial multi-label learning.
 
-Publication
-======
+# 📝 Publication
 
 - [KDD'2024] [Noisy Label Removal for Partial Multi-Label Learning.](https://dl.acm.org/doi/abs/10.1145/3637528.3671677) [[Code]](https://github.com/Yangfc-ML/NLR)\
   **Fuchao Yang**, Yuheng Jia*, Hui Liu, Yongqiang Dong, Junhui Hou
@@ -22,7 +21,6 @@ Publication
 Yuheng Jia*, **Fuchao Yang**, Yongqiang Dong
 
 
-Academic Services
-======
+# 👨‍💻 Academic Services
 
 Reviewer / PC Member: KDD (2024).
