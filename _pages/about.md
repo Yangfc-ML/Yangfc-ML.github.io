@@ -14,10 +14,10 @@ My primary research interests focus on weakly supervised learning, particularly 
 Publication
 ======
 
-- [KDD2024] Noisy Label Removal for Partial Multi-Label Learning\
+- [KDD2024] [Noisy Label Removal for Partial Multi-Label Learning](https://dl.acm.org/doi/abs/10.1145/3637528.3671677)\
   **Fuchao Yang**, Yuheng Jia*, Hui LIU, Yongqiang Dong, Junhui Hou\
   [Code](https://github.com/Yangfc-ML/NLR)
 
-- [NeurIPS] Partial Label Learning with Dissimilarity Propagation guided Candidate Label Shrinkage\
+- [NeurIPS2023] [Partial Label Learning with Dissimilarity Propagation guided Candidate Label Shrinkage](https://proceedings.neurips.cc/paper_files/paper/2023/hash/6b97236d90d945be7c58268207a14f4f-Abstract-Conference.html)\
 Yuheng Jia*, **Fuchao Yang**, Yongqiang Dong\
 [Code](https://github.com/Yangfc-ML/DPCLS)
