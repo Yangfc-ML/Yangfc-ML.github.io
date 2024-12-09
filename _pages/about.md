@@ -17,8 +17,8 @@ E-mail: <yangfc@seu.edu.cn>
 
 # 📝 Publication
 
-- [**KDD'2025**] Mixed Blessing: Class-Wise Embedding guided
-Instance-Dependent Partial Label Learning. [[Code]](https://github.com/Yangfc-ML/NLR)\
+- [**KDD'2025**] [Mixed Blessing: Class-Wise Embedding guided
+Instance-Dependent Partial Label Learning.](https://arxiv.org/abs/2412.05029) [[Code]](https://github.com/Yangfc-ML/NLR)\
   **Fuchao Yang**, Jianhong Cheng, Hui Liu, Yongqiang Dong, Yuheng Jia*, Junhui Hou
 
 - [**KDD'2024**] [Noisy Label Removal for Partial Multi-Label Learning.](https://dl.acm.org/doi/abs/10.1145/3637528.3671677) [[Code]](https://github.com/Yangfc-ML/NLR)\
