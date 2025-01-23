@@ -17,6 +17,9 @@ E-mail: <yangfc@seu.edu.cn>
 
 # 📝 Publication
 
+- [**ICLR'2025**] [Noise Separation guided Candidate Label Reconstruction for Noisy Partial Label Learning.](https://openreview.net/forum?id=TOahfjA3sP) [[Code]](https://openreview.net/forum?id=TOahfjA3sP)\
+  Xiaorui Peng, Yuheng Jia, **Fuchao Yang**, Ran Wang, Min-Ling Zhang
+
 - [**KDD'2025**] [Mixed Blessing: Class-Wise Embedding guided
 Instance-Dependent Partial Label Learning.](https://arxiv.org/abs/2412.05029) [[Code]](https://github.com/Yangfc-ML/CEL)\
   **Fuchao Yang**, Jianhong Cheng, Hui Liu, Yongqiang Dong, Yuheng Jia*, Junhui Hou
@@ -31,4 +34,4 @@ Yuheng Jia*, **Fuchao Yang**, Yongqiang Dong
 
 # 👨‍💻 Academic Services
 
-Reviewer / PC Member: KDD (2024).
+Reviewer / PC Member: KDD (2024, 2025).
