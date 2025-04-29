@@ -25,14 +25,14 @@ E-mail: <yangfc@seu.edu.cn>
 
 - [**KDD'2025**] [Mixed Blessing: Class-Wise Embedding guided
 Instance-Dependent Partial Label Learning.](https://arxiv.org/abs/2412.05029) [[Code]](https://github.com/Yangfc-ML/CEL)\
-  **Fuchao Yang**, Jianhong Cheng, Hui Liu, Yongqiang Dong, Yuheng Jia*, Junhui Hou
+  **Fuchao Yang**, Jianhong Cheng, Hui Liu, Yongqiang Dong, Yuheng Jia, Junhui Hou
 
 - [**KDD'2024**] [Noisy Label Removal for Partial Multi-Label Learning.](https://dl.acm.org/doi/abs/10.1145/3637528.3671677) [[Code]](https://github.com/Yangfc-ML/NLR)\
-  **Fuchao Yang**, Yuheng Jia*, Hui Liu, Yongqiang Dong, Junhui Hou
+  **Fuchao Yang**, Yuheng Jia, Hui Liu, Yongqiang Dong, Junhui Hou
   
 
 - [**NeurIPS'2023**] [Partial Label Learning with Dissimilarity Propagation guided Candidate Label Shrinkage.](https://proceedings.neurips.cc/paper_files/paper/2023/hash/6b97236d90d945be7c58268207a14f4f-Abstract-Conference.html) [[Code]](https://github.com/Yangfc-ML/DPCLS)\
-Yuheng Jia*, **Fuchao Yang**, Yongqiang Dong
+Yuheng Jia, **Fuchao Yang**, Yongqiang Dong
 
 
 # 👨‍💻 Academic Services
