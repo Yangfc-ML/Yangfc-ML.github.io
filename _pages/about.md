@@ -17,7 +17,7 @@ E-mail: <yangfc@seu.edu.cn>
 
 # 📝 Publication
 
-- [**IJCAI'2025**] Partial Label Clustering. [Code]\
+- [**IJCAI'2025**] [Partial Label Clustering.](https://arxiv.org/abs/2505.03207) [[Code]](https://github.com/xyt-ml/PLC)\
   Yutong Xie, **Fuchao Yang**, Yuheng Jia
 
 - [**ICLR'2025**] [Noise Separation guided Candidate Label Reconstruction for Noisy Partial Label Learning.](https://openreview.net/forum?id=TOahfjA3sP) [[Code]](https://openreview.net/forum?id=TOahfjA3sP)\
