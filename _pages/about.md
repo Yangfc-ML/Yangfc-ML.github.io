@@ -17,6 +17,12 @@ E-mail: <yangfc@seu.edu.cn>
 
 # 📝 Publication
 
+- [**Arxiv'2025**] [Revisiting Sparsity Constraint Under High-Rank Property in Partial Multi-Label Learning.](https://arxiv.org/pdf/2505.20938) [Code]\
+  Chongjie Si, Yidan Cui, **Fuchao Yang**, Xiaokang Yang, Wei Shen
+
+- [**Arxiv'2025**] [Why Can Accurate Models Be Learned from Inaccurate Annotations?](https://arxiv.org/pdf/2505.16159?) [Code]\
+  Chongjie Si, Yidan Cui, **Fuchao Yang**, Xiaokang Yang, Wei Shen
+
 - [**IJCAI'2025**] [Partial Label Clustering.](https://arxiv.org/abs/2505.03207) [[Code]](https://github.com/xyt-ml/PLC)\
   Yutong Xie, **Fuchao Yang**, Yuheng Jia
 
