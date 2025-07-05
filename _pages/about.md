@@ -9,7 +9,7 @@ redirect_from:
 
 # 🎈 Biography
 
-I am an incoming research assistant at [Nanyang Technological University](https://www.ntu.edu.sg/) under the supervision of Prof. [Bo An](https://personal.ntu.edu.sg/boan/). I received my Master degree from the [PALM Lab](https://palm.seu.edu.cn/) at [Southeast University](https://www.seu.edu.cn/) and my Bachelor degree from [Anhui University](https://www.ahu.edu.cn/).
+I am an incoming research assistant at [Nanyang Technological University](https://www.ntu.edu.sg/) under the supervision of [Prof. Bo An](https://personal.ntu.edu.sg/boan/). I received my Master degree from the [PALM Lab](https://palm.seu.edu.cn/) at [Southeast University](https://www.seu.edu.cn/) and my Bachelor degree from [Anhui University](https://www.ahu.edu.cn/).
 
 
 My primary research interests focus on Vision Language Models, Reinforcement Learning and Weakly Supervised Learning.
