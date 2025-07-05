@@ -9,9 +9,10 @@ redirect_from:
 
 # 🎈 Biography
 
-I'm a third year graduate student of [School of Software Engineering](https://cose.seu.edu.cn/), [Southeast University](https://www.seu.edu.cn/) under the supervision of [Prof. Yuheng Jia](https://jyh-learning.github.io/index.html). I received my B.Eng. degree from [Anhui University](https://www.ahu.edu.cn/).
+I am an incoming research assistant at [Nanyang Technological University](https://www.ntu.edu.sg/) under the supervision of Prof. [Bo An](https://personal.ntu.edu.sg/boan/). I received my Master degree from the [PALM Lab](https://palm.seu.edu.cn/) at [Southeast University](https://www.seu.edu.cn/) and my Bachelor degree from [Anhui University](https://www.ahu.edu.cn/).
 
-My primary research interests focus on weakly supervised learning, particularly partial label learning and partial multi-label learning.
+
+My primary research interests focus on Vision Language Models, Reinforcement Learning and Weakly Supervised Learning.
 
 E-mail: <yangfc@seu.edu.cn>
 
