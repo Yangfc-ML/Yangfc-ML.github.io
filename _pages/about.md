@@ -24,6 +24,9 @@ E-mail: <yangfc@seu.edu.cn>
 - [**Arxiv'2025**] [Why Can Accurate Models Be Learned from Inaccurate Annotations?](https://arxiv.org/pdf/2505.16159?) [Code]\
   Chongjie Si, Yidan Cui, **Fuchao Yang**, Xiaokang Yang, Wei Shen
 
+- [**MLMC'2025**] [Partial Label Learning Tailored Graph Construction.](https://github.com/Yangfc-ML/PL-TGC) [[Code]](https://github.com/Yangfc-ML/PL-TGC)\
+  **Fuchao Yang**, Yongqiang Dong, Yuheng Jia
+
 - [**IJCAI'2025**] [Partial Label Clustering.](https://arxiv.org/abs/2505.03207) [[Code]](https://github.com/xyt-ml/PLC)\
   Yutong Xie, **Fuchao Yang**, Yuheng Jia
 
@@ -44,4 +47,10 @@ Yuheng Jia, **Fuchao Yang**, Yongqiang Dong
 
 # 👨‍💻 Academic Services
 
-Reviewer / PC Member: KDD (2024, 2025).
+**Reviewer / PC Member:**
+
+**Conference**:
+KDD (2024, 2025).
+
+**Journal**:
+IEEE-TCSVT.
