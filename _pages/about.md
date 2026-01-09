@@ -17,7 +17,7 @@ My primary research interests focus on Vision Language Models, Reinforcement Lea
 E-mail: <fuchao001@e.ntu.edu.sg>, <fcyang111@gmail.com>
 
 # 📝 Publication 
-<sup>*</sup> denotes equal contribution.
+<sup>*</sup> equal contribution.
 - [**Arxiv'2026**] [AgentOCR: Reimagining Agent History via Optical Self-Compression.](https://arxiv.org/abs/2601.04786v1) [Code]\
   Lang Feng*, **Fuchao Yang***, Feng Chen, Xin Cheng, Haiyang Xu, Zhenglin Wan, Ming Yan, Bo An
 
