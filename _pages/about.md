@@ -19,7 +19,7 @@ E-mail: <fuchao001@e.ntu.edu.sg>, <fcyang111@gmail.com>
 # 📝 Publication 
 <sup>*</sup> equal contribution.
 - [**Arxiv'2026**] [AgentOCR: Reimagining Agent History via Optical Self-Compression.](https://arxiv.org/abs/2601.04786v1) [Code]\
-  Lang Feng*, **Fuchao Yang***, Feng Chen, Xin Cheng, Haiyang Xu, Zhenglin Wan, Ming Yan, Bo An
+  Lang Feng*, **Fuchao Yang**\*, Feng Chen, Xin Cheng, Haiyang Xu, Zhenglin Wan, Ming Yan, Bo An
 
 
 - [**Arxiv'2025**] [Revisiting Sparsity Constraint Under High-Rank Property in Partial Multi-Label Learning.](https://arxiv.org/pdf/2505.20938) [Code]\
