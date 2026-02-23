@@ -21,11 +21,10 @@ E-mail: <fuchao001@e.ntu.edu.sg>, <fcyang111@gmail.com>
 - [**Arxiv'2026**] [AgentOCR: Reimagining Agent History via Optical Self-Compression.](https://arxiv.org/abs/2601.04786v1) [Code]\
   Lang Feng*, **Fuchao Yang**\*, Feng Chen, Xin Cheng, Haiyang Xu, Zhenglin Wan, Ming Yan, Bo An
 
-
-- [**Arxiv'2025**] [Revisiting Sparsity Constraint Under High-Rank Property in Partial Multi-Label Learning.](https://arxiv.org/pdf/2505.20938) [Code]\
+- [**Arxiv'2025**] [Why Can Accurate Models Be Learned from Inaccurate Annotations?](https://arxiv.org/pdf/2505.16159?) [Code]\
   Chongjie Si, Yidan Cui, **Fuchao Yang**, Xiaokang Yang, Wei Shen
 
-- [**Arxiv'2025**] [Why Can Accurate Models Be Learned from Inaccurate Annotations?](https://arxiv.org/pdf/2505.16159?) [Code]\
+- [**CVPR'2026**] [Revisiting Sparsity Constraint Under High-Rank Property in Partial Multi-Label Learning.](https://arxiv.org/pdf/2505.20938) [Code]\
   Chongjie Si, Yidan Cui, **Fuchao Yang**, Xiaokang Yang, Wei Shen
 
 - [**MLMC'2025**] [Partial Label Learning Tailored Graph Construction.](https://github.com/Yangfc-ML/PL-TGC) [[Code]](https://github.com/Yangfc-ML/PL-TGC)\
