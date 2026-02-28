@@ -18,7 +18,7 @@ E-mail: <fuchao001@e.ntu.edu.sg>, <fcyang111@gmail.com>
 
 # 📝 Publication 
 <sup>*</sup> equal contribution.
-- [**Arxiv'2026**] [AgentOCR: Reimagining Agent History via Optical Self-Compression.](https://arxiv.org/abs/2601.04786v1) [[Code](https://github.com/langfengQ/AgentOCR)]\
+- [**Arxiv'2026**] [AgentOCR: Reimagining Agent History via Optical Self-Compression.](https://arxiv.org/abs/2601.04786v1) [[Code]](https://github.com/langfengQ/AgentOCR)\
   Lang Feng*, **Fuchao Yang**\*, Feng Chen, Xin Cheng, Haiyang Xu, Zhenglin Wan, Ming Yan, Bo An
 
 - [**Arxiv'2025**] [Why Can Accurate Models Be Learned from Inaccurate Annotations?](https://arxiv.org/pdf/2505.16159?) [Code]\
