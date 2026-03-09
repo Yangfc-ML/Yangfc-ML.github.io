@@ -12,12 +12,13 @@ redirect_from:
 I am a first-year PhD student at [Nanyang Technological University](https://www.ntu.edu.sg/) under the supervision of [Prof. Bo An](https://personal.ntu.edu.sg/boan/). I received my master degree from the [PALM Lab](https://palm.seu.edu.cn/) at [Southeast University](https://www.seu.edu.cn/) and my bachelor degree from [Anhui University](https://www.ahu.edu.cn/).
 
 
-My primary research interests focus on Vision Language Models, Reinforcement Learning and Weakly Supervised Learning.
+My primary research interests focus on LLM Agent, Reinforcement Learning and Weakly Supervised Learning.
 
 E-mail: <fuchao001@e.ntu.edu.sg>, <fcyang111@gmail.com>
 
 # 📝 Publication 
 <sup>*</sup> equal contribution.
+
 - [**Arxiv'2026**] [AgentOCR: Reimagining Agent History via Optical Self-Compression.](https://arxiv.org/abs/2601.04786v1) [[Code]](https://github.com/langfengQ/AgentOCR)\
   Lang Feng*, **Fuchao Yang**\*, Feng Chen, Xin Cheng, Haiyang Xu, Zhenglin Wan, Ming Yan, Bo An
 
