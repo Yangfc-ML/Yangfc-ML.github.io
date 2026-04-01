@@ -9,7 +9,7 @@ redirect_from:
 
 # 🎈 Biography
 
-I am a first-year PhD student at [Nanyang Technological University](https://www.ntu.edu.sg/) under the supervision of [Prof. Bo An](https://personal.ntu.edu.sg/boan/). I received my master degree from the [PALM Lab](https://palm.seu.edu.cn/) at [Southeast University](https://www.seu.edu.cn/) and my bachelor degree from [Anhui University](https://www.ahu.edu.cn/).
+I am a first-year PhD student at [Nanyang Technological University](https://www.ntu.edu.sg/) under the supervision of [Prof. Bo An](https://personal.ntu.edu.sg/boan/). I am also currently an intern at [MiroMind](https://miromind.ai/), focusing on agent frameworks. I received my master degree from the [PALM Lab](https://palm.seu.edu.cn/) at [Southeast University](https://www.seu.edu.cn/) and my bachelor degree from [Anhui University](https://www.ahu.edu.cn/).
 
 
 My primary research interests focus on LLM Agent, Reinforcement Learning and Weakly Supervised Learning.
@@ -54,7 +54,7 @@ Yuheng Jia, **Fuchao Yang**, Yongqiang Dong
 **Reviewer / PC Member:**
 
 **Conference**:
-KDD (2024, 2025, 2026).
+KDD (2024, 2025, 2026). ECCV (2026)
 
 **Journal**:
 IEEE-TCSVT.
