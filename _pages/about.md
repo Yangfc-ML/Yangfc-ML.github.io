@@ -54,7 +54,7 @@ Yuheng Jia, **Fuchao Yang**, Yongqiang Dong
 **Reviewer / PC Member:**
 
 **Conference**:
-KDD (2024, 2025, 2026, 2027). ECCV (2026)
+KDD (2024, 2025, 2026, 2027), ECCV (2026), ICLR (2027)
 
 **Journal**:
 IEEE-TCSVT.
