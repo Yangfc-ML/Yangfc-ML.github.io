@@ -1,0 +1,55 @@
+# Publications shown on the homepage, newest first.
+# Fields: title, authors, venue, paper (URL, optional), code (URL, optional).
+# Your name (site.name) is bolded automatically; mark equal contribution with "*".
+
+- title: "Why Can Accurate Models Be Learned from Inaccurate Annotations?"
+  authors: "Chongjie Si, Yidan Cui, Fuchao Yang, Xiaokang Yang, Wei Shen"
+  venue: "ECCV 2026"
+  paper: "https://arxiv.org/pdf/2505.16159?"
+
+- title: "AgentOCR: Reimagining Agent History via Optical Self-Compression"
+  authors: "Lang Feng*, Fuchao Yang*, Feng Chen, Xin Cheng, Haiyang Xu, Zhenglin Wan, Ming Yan, Bo An"
+  venue: "ACL 2026"
+  paper: "https://arxiv.org/abs/2601.04786v1"
+  code: "https://github.com/langfengQ/AgentOCR"
+
+- title: "Revisiting Sparsity Constraint Under High-Rank Property in Partial Multi-Label Learning"
+  authors: "Chongjie Si, Yidan Cui, Fuchao Yang, Xiaokang Yang, Wei Shen"
+  venue: "CVPR 2026"
+  paper: "https://arxiv.org/pdf/2505.20938"
+
+- title: "Partial Label Learning Tailored Graph Construction"
+  authors: "Fuchao Yang, Yongqiang Dong, Yuheng Jia"
+  venue: "MLMC 2025"
+  paper: "https://github.com/Yangfc-ML/PL-TGC"
+  code: "https://github.com/Yangfc-ML/PL-TGC"
+
+- title: "Partial Label Clustering"
+  authors: "Yutong Xie, Fuchao Yang, Yuheng Jia"
+  venue: "IJCAI 2025"
+  paper: "https://arxiv.org/abs/2505.03207"
+  code: "https://github.com/xyt-ml/PLC"
+
+- title: "Noise Separation guided Candidate Label Reconstruction for Noisy Partial Label Learning"
+  authors: "Xiaorui Peng, Yuheng Jia, Fuchao Yang, Ran Wang, Min-Ling Zhang"
+  venue: "ICLR 2025"
+  paper: "https://openreview.net/forum?id=TOahfjA3sP"
+  code: "https://openreview.net/forum?id=TOahfjA3sP"
+
+- title: "Mixed Blessing: Class-Wise Embedding guided Instance-Dependent Partial Label Learning"
+  authors: "Fuchao Yang, Jianhong Cheng, Hui Liu, Yongqiang Dong, Yuheng Jia, Junhui Hou"
+  venue: "KDD 2025"
+  paper: "https://arxiv.org/abs/2412.05029"
+  code: "https://github.com/Yangfc-ML/CEL"
+
+- title: "Noisy Label Removal for Partial Multi-Label Learning"
+  authors: "Fuchao Yang, Yuheng Jia, Hui Liu, Yongqiang Dong, Junhui Hou"
+  venue: "KDD 2024"
+  paper: "https://dl.acm.org/doi/abs/10.1145/3637528.3671677"
+  code: "https://github.com/Yangfc-ML/NLR"
+
+- title: "Partial Label Learning with Dissimilarity Propagation guided Candidate Label Shrinkage"
+  authors: "Yuheng Jia, Fuchao Yang, Yongqiang Dong"
+  venue: "NeurIPS 2023"
+  paper: "https://proceedings.neurips.cc/paper_files/paper/2023/hash/6b97236d90d945be7c58268207a14f4f-Abstract-Conference.html"
+  code: "https://github.com/Yangfc-ML/DPCLS"

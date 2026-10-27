@@ -1,0 +1,18 @@
+# Technical reports shown on the homepage, newest first.
+# Same fields as _data/publications.yml.
+
+- title: "AgentEvolver: System-Wide Self-Evolution Through Task Execution"
+  authors: "Wentao Zhang, Fuchao Yang, Yilei Zhao, Xinrun Wang, Bo An"
+  venue: "Tech Report"
+  paper: "https://arxiv.org/abs/2610.11613"
+
+- title: "Finding the Right Fit: Model-Harness Interactions across Agent Tasks"
+  authors: "Yixuan Li, Yiyun Zhou, Yao Long Teng, Fuchao Yang, Yanchen Deng, Zhiyi Lyu, Xuyu Dong, Feng Chen, Bo An"
+  venue: "Tech Report"
+  paper: "https://arxiv.org/abs/2610.00917"
+  code: "https://github.com/liyix/finding-the-right-fit"
+
+- title: "Apodex Discovery: Reality Benchmarks and Environments for Evaluating and Building Discoverative Artificial Intelligence"
+  authors: "Apodex Team"
+  venue: "Tech Report"
+  paper: "https://arxiv.org/abs/2608.11341"

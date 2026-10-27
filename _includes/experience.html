@@ -1,0 +1,14 @@
+<div class="exp-list">
+  {% for exp in site.data.experience %}
+  <div class="exp-card">
+    <div class="exp-icon"><i class="fas fa-briefcase" aria-hidden="true"></i></div>
+    <div class="exp-body">
+      <div class="exp-head">
+        <span class="exp-org">{% if exp.url %}<a href="{{ exp.url }}">{{ exp.org }}</a>{% else %}{{ exp.org }}{% endif %}</span>
+        <span class="exp-date">{{ exp.date }}</span>
+      </div>
+      {% if exp.role %}<div class="exp-role">{{ exp.role }}</div>{% endif %}
+    </div>
+  </div>
+  {% endfor %}
+</div>

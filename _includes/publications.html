@@ -1,0 +1,19 @@
+{% capture me %}<strong>{{ site.name }}</strong>{% endcapture %}
+{% assign pubs = include.list | default: site.data.publications %}
+<div class="pub-list{% if include.variant %} pub-list--{{ include.variant }}{% endif %}">
+  {% for pub in pubs %}
+  <div class="pub-card">
+    <div class="pub-venue">{{ pub.venue }}</div>
+    <div class="pub-body">
+      <div class="pub-title">{% if pub.paper %}<a href="{{ pub.paper }}">{{ pub.title }}</a>{% else %}{{ pub.title }}{% endif %}</div>
+      <div class="pub-authors">{{ pub.authors | replace: site.name, me }}</div>
+      {% if pub.paper or pub.code %}
+      <div class="pub-links">
+        {% if pub.paper %}<a class="pub-btn" href="{{ pub.paper }}"><i class="fas fa-file-lines" aria-hidden="true"></i>Paper</a>{% endif %}
+        {% if pub.code %}<a class="pub-btn" href="{{ pub.code }}"><i class="{% if pub.code contains 'github.com' %}fab fa-github{% else %}fas fa-code{% endif %}" aria-hidden="true"></i>Code</a>{% endif %}
+      </div>
+      {% endif %}
+    </div>
+  </div>
+  {% endfor %}
+</div>

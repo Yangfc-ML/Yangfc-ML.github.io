@@ -1,0 +1,7 @@
+# Work experience shown on the homepage, newest first.
+# Fields: org, url (optional), role, date.
+
+- org: "Apodex"
+  url: "https://www.apodex.ai/"
+  role: "AI Scientist (Intern), focusing on agent frameworks"
+  date: "2026.03 – 2026.10"

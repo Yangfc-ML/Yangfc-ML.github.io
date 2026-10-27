@@ -24,7 +24,8 @@ author:
   avatar           : "yfc.jpg"
   name             : "Fuchao Yang (杨富超)"
   pronouns         : # example: "she/her"  
-  bio              : "Welcome!"
+  bio              : "PhD Student @ NTU"
+  topics           : ["LLM Agent", "Reinforcement Learning", "Weakly Supervised Learning"]
   location         : "Singapore"
   employer         : "NTU"
   uri              : # URL

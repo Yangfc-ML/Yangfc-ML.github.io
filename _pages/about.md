@@ -9,52 +9,36 @@ redirect_from:
 
 # 🎈 Biography
 
-I am a first-year PhD student at [Nanyang Technological University](https://www.ntu.edu.sg/) under the supervision of [Prof. Bo An](https://personal.ntu.edu.sg/boan/). I am also currently an intern at [MiroMind](https://miromind.ai/), focusing on agent frameworks. I received my master degree from the [PALM Lab](https://palm.seu.edu.cn/) at [Southeast University](https://www.seu.edu.cn/) and my bachelor degree from [Anhui University](https://www.ahu.edu.cn/).
+I am a first-year PhD student at [Nanyang Technological University](https://www.ntu.edu.sg/) under the supervision of [Prof. Bo An](https://personal.ntu.edu.sg/boan/). I received my master degree from the [PALM Lab](https://palm.seu.edu.cn/) at [Southeast University](https://www.seu.edu.cn/) and my bachelor degree from [Anhui University](https://www.ahu.edu.cn/).
 
 
 My primary research interests focus on LLM Agent, Reinforcement Learning and Weakly Supervised Learning.
 
 E-mail: <fuchao001@e.ntu.edu.sg>, <fcyang111@gmail.com>
 
-# 📝 Publication 
-<sup>*</sup> equal contribution.
+# 💼 Work Experience
 
-- [**ECCV'2026**] [Why Can Accurate Models Be Learned from Inaccurate Annotations?](https://arxiv.org/pdf/2505.16159?) [Code]\
-  Chongjie Si, Yidan Cui, **Fuchao Yang**, Xiaokang Yang, Wei Shen
+<!-- Edit entries in _data/experience.yml -->
 
-- [**ACL'2026**] [AgentOCR: Reimagining Agent History via Optical Self-Compression.](https://arxiv.org/abs/2601.04786v1) [[Code]](https://github.com/langfengQ/AgentOCR)\
-  Lang Feng*, **Fuchao Yang**\*, Feng Chen, Xin Cheng, Haiyang Xu, Zhenglin Wan, Ming Yan, Bo An
+{% include experience.html %}
 
-- [**CVPR'2026**] [Revisiting Sparsity Constraint Under High-Rank Property in Partial Multi-Label Learning.](https://arxiv.org/pdf/2505.20938) [Code]\
-  Chongjie Si, Yidan Cui, **Fuchao Yang**, Xiaokang Yang, Wei Shen
+# 📝 Publication
 
-- [**MLMC'2025**] [Partial Label Learning Tailored Graph Construction.](https://github.com/Yangfc-ML/PL-TGC) [[Code]](https://github.com/Yangfc-ML/PL-TGC)\
-  **Fuchao Yang**, Yongqiang Dong, Yuheng Jia
+<p class="pub-note">* Equal contribution. Full list on <a href="https://scholar.google.com/citations?user=D7XloC8AAAAJ&hl">Google Scholar</a>.</p>
 
-- [**IJCAI'2025**] [Partial Label Clustering.](https://arxiv.org/abs/2505.03207) [[Code]](https://github.com/xyt-ml/PLC)\
-  Yutong Xie, **Fuchao Yang**, Yuheng Jia
+## Conference & Journal Papers
 
-- [**ICLR'2025**] [Noise Separation guided Candidate Label Reconstruction for Noisy Partial Label Learning.](https://openreview.net/forum?id=TOahfjA3sP) [[Code]](https://openreview.net/forum?id=TOahfjA3sP)\
-  Xiaorui Peng, Yuheng Jia, **Fuchao Yang**, Ran Wang, Min-Ling Zhang
+<!-- Edit papers in _data/publications.yml -->
 
-- [**KDD'2025**] [Mixed Blessing: Class-Wise Embedding guided
-Instance-Dependent Partial Label Learning.](https://arxiv.org/abs/2412.05029) [[Code]](https://github.com/Yangfc-ML/CEL)\
-  **Fuchao Yang**, Jianhong Cheng, Hui Liu, Yongqiang Dong, Yuheng Jia, Junhui Hou
+{% include publications.html %}
 
-- [**KDD'2024**] [Noisy Label Removal for Partial Multi-Label Learning.](https://dl.acm.org/doi/abs/10.1145/3637528.3671677) [[Code]](https://github.com/Yangfc-ML/NLR)\
-  **Fuchao Yang**, Yuheng Jia, Hui Liu, Yongqiang Dong, Junhui Hou
-  
+## Technical Reports
 
-- [**NeurIPS'2023**] [Partial Label Learning with Dissimilarity Propagation guided Candidate Label Shrinkage.](https://proceedings.neurips.cc/paper_files/paper/2023/hash/6b97236d90d945be7c58268207a14f4f-Abstract-Conference.html) [[Code]](https://github.com/Yangfc-ML/DPCLS)\
-Yuheng Jia, **Fuchao Yang**, Yongqiang Dong
+<!-- Edit entries in _data/reports.yml -->
 
+{% include publications.html list=site.data.reports variant="report" %}
 
 # 👨‍💻 Academic Services
 
-**Reviewer / PC Member:**
-
-**Conference**:
-KDD (2024, 2025, 2026, 2027), ECCV (2026), ICLR (2027)
-
-**Journal**:
-IEEE-TCSVT.
+- **Conference Reviewer / PC Member**: KDD (2024, 2025, 2026, 2027), ECCV (2026), ICLR (2027), WWW (2027)
+- **Journal Reviewer**: IEEE-TCSVT
