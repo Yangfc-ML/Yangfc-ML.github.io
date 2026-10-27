@@ -34,7 +34,7 @@
   authors: "Xiaorui Peng, Yuheng Jia, Fuchao Yang, Ran Wang, Min-Ling Zhang"
   venue: "ICLR 2025"
   paper: "https://openreview.net/forum?id=TOahfjA3sP"
-  code: "https://openreview.net/forum?id=TOahfjA3sP"
+  code: "https://github.com/pruirui/PLRC"
 
 - title: "Mixed Blessing: Class-Wise Embedding guided Instance-Dependent Partial Label Learning"
   authors: "Fuchao Yang, Jianhong Cheng, Hui Liu, Yongqiang Dong, Yuheng Jia, Junhui Hou"
